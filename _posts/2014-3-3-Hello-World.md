@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Swift Protocols: Properties distinction(get, get set)🏃🏻‍♀️🏃
+title: Swift Protocols: Properties distinction(get, get set)
 ---
 
 [![Chetan Aggarwal](https://miro.medium.com/fit/c/96/96/1*jcaljTwAZ5cKY91bZFHq5A.jpeg)](https://medium.com/@chetan15aga?source=post_page-----32a34a7f16e9--------------------------------)
