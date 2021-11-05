@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Swift Protocols: Properties distinction(get, get set)🏃🏻‍♀️🏃
+title: You're up and running!
 ---
 
 # Swift Protocols: Properties distinction(get, get set)🏃🏻‍♀️🏃🏻
